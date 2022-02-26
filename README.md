@@ -15,7 +15,7 @@ Transform the dataset to fit the tables in the schema file. Be sure the DataFram
 
 Load the DataFrames that correspond to tables into an RDS instance. Note: This process can take up to 10 minutes for each. Be sure that everything is correct before uploading.
 
-### Level 2
+### Level 2 (optional)
 In Amazon's Vine program, reviewers receive free products in exchange for reviews.
 
 Amazon has several policies to reduce the bias of its Vine reviews: https://www.amazon.com/gp/vine/help?ie=UTF8.
